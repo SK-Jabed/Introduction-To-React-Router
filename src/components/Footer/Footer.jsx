@@ -3,8 +3,7 @@
 const Footer = () => {
     return (
         <div>
-            <h2>This is Footer Content</h2>
-            <p>Here you can see our footer content</p>
+            <h2>Thank you for visiting our website</h2>           
         </div>
     );
 };
