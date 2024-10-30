@@ -2,7 +2,6 @@ import { useLoaderData } from "react-router-dom";
 import Post from "../Post/post";
 
 
-
 const Posts = () => {
     const posts = useLoaderData();
 
